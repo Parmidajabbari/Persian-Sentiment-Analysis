@@ -1,4 +1,4 @@
- ## Persian Sentiment Analysis
+# Persian Sentiment Analysis
 
 ## Overview
 This project focuses on **Persian sentiment analysis** for marketing applications using user reviews from **SnappFood**, a major online food delivery platform in Iran. The goal is to classify sentiment as **positive (happy) or negative (sad)** using advanced **natural language processing (NLP) techniques** and deep learning models.
@@ -42,8 +42,9 @@ The project employs **two deep learning models**:
 - **Final sigmoid activation** for binary sentiment classification.
 
 <p align="center">
-  <img width=80% src="assets/images/bilstm_model_summary.png">
+  <img width=60% src="assets/images/bilstm_model_summary.png">
 </p>
+<p align="center"><em>Figure 1: Model Summary for BiLSTM Architecture</em></p>
 
 ### 2. Convolutional Neural Network (CNN)
 - Uses **pre-trained FastText embeddings**.
@@ -53,8 +54,9 @@ The project employs **two deep learning models**:
 - **Final sigmoid activation** outputs sentiment probabilities.
 
 <p align="center">
-  <img width=80% src="assets/images/cnn_model_summary.png">
+  <img width=60% src="assets/images/cnn_model_summary.png">
 </p>
+<p align="center"><em>Figure 2: Model Summary for CNN Architecture</em></p>
 
 ## Results & Evaluation
 - **BiLSTM model:** 83.99% accuracy, Weighted F1-score = **0.84**.
@@ -66,6 +68,7 @@ The project employs **two deep learning models**:
   <img width=49% src="assets/images/bilstm_confusion_matrix.png">
   <img width=49% src="assets/images/cnn_confusion_matrix.png">
 </p>
+<p align="center"><em>Figure 3: Confusion Matrix for BiLSTM (Left) and CNN (Right)</em></p>
 
 ## Future Work
 - Implementing **intent classification** for chatbot applications.
