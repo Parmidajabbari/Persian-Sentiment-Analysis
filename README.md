@@ -1,12 +1,12 @@
 # Persian Sentiment Analysis
 
+<p align="center">
+  <img width=70% src="assets/images/word_cloud.png">
+</p>
+
 ## Overview
 This project focuses on **Persian sentiment analysis** for marketing applications using user reviews from **SnappFood**, a major online food delivery platform in Iran. The goal is to classify sentiment as **positive (happy) or negative (sad)** using advanced **natural language processing (NLP) techniques** and deep learning models.
 
-### Word Cloud Visualization
-<p align="center">
-  <img width=80% src="assets/images/word_cloud.png">
-</p>
 
 ## Team Members
 - **Mobin Nesari**
