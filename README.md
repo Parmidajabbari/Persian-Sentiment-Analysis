@@ -1,4 +1,4 @@
- Persian Sentiment Analysis
+ ##Persian Sentiment Analysis
 
 ## Overview
 This project focuses on **Persian sentiment analysis** for marketing applications using user reviews from **SnappFood**, a major online food delivery platform in Iran. The goal is to classify sentiment as **positive (happy) or negative (sad)** using advanced **natural language processing (NLP) techniques** and deep learning models.
