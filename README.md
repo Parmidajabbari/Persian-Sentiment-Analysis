@@ -42,7 +42,7 @@ The project employs **two deep learning models**:
 - **Final sigmoid activation** for binary sentiment classification.
 
 <p align="center">
-  <img width=60% src="assets/images/bilstm_model_summary.png">
+  <img width=40% height = 40% src="assets/images/bilstm_model_summary.png">
 </p>
 <p align="center"><em>Figure 1: Model Summary for BiLSTM Architecture</em></p>
 
@@ -54,7 +54,7 @@ The project employs **two deep learning models**:
 - **Final sigmoid activation** outputs sentiment probabilities.
 
 <p align="center">
-  <img width=60% src="assets/images/cnn_model_summary.png">
+  <img width=40% height = 40% src="assets/images/cnn_model_summary.png">
 </p>
 <p align="center"><em>Figure 2: Model Summary for CNN Architecture</em></p>
 
